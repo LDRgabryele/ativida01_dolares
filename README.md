@@ -1,1 +1,1 @@
-# ativida07_dolares
+# atividade07_dolares
